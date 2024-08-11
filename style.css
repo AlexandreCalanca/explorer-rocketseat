@@ -1,0 +1,13 @@
+h1{
+    font-family: 'Inter', sans-serif;
+    font-size: 49px;
+    line-height: 56px;
+}
+a, p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #7D7987;
+}
+a, span{
+    color: #f90;
+}
